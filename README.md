@@ -49,3 +49,13 @@
 ## Email to Admin
 ![Dev Branch Merged to test Branch](screenshots/email-notification.png)
 
+## Docker Container Running
+![Dev Branch Merged to test Branch](screenshots/docker-container-running.png)
+
+## Flask endpoint prediction response
+![Dev Branch Merged to test Branch](screenshots/sucess-response.png)
+
+## Docker Container Logs
+![Dev Branch Merged to test Branch](screenshots/docker-container-logs.png)
+
+
