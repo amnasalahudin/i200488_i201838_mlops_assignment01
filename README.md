@@ -1,5 +1,5 @@
 # MLOPs Assignment 01
-## Amna Salahudin - (20I - 0488), Muqudas Zulfiqar - (20I - 1838)
+## Amna Salahudin - (20I - 0488), Muqadas Zulfiqar - (20I - 1838)
 
 ## Branch Protection Rules
 ![Adding New Feature](screenshots/branch-protection.png)
