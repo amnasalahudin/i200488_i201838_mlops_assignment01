@@ -57,5 +57,3 @@
 
 ## Docker Container Logs
 ![Dev Branch Merged to test Branch](screenshots/docker-container-logs.png)
-
-
