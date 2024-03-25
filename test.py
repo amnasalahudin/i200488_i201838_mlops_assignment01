@@ -8,7 +8,8 @@ def client():
         yield client
 
 
-def test_predict(client): 
+def test_predict(client):
+    # Example test for predict endpoint with specific fields
     data = {
         "Gender": "Male",
         "Married": "No",
