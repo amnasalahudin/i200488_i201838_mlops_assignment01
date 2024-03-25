@@ -7,7 +7,7 @@ pipeline {
     
     environment {
        
-        DOCKERHUB_CREDENTIALS_ID = 'dockerhub-credentials' //acess credentials
+        DOCKERHUB_CREDENTIALS_ID = 'dockerhub-credentials' 
         IMAGE_NAME = 'amnasalahudin/flask-app-assignment'
         TAG = 'latest' 
         DOCKER_HOST = 'tcp://localhost:2375'
