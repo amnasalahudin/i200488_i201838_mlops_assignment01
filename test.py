@@ -8,8 +8,7 @@ def client():
         yield client
 
 
-def test_predict(client):
-   
+def test_predict(client): 
     data = {
         "Gender": "Male",
         "Married": "No",
