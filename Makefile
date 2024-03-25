@@ -11,4 +11,4 @@ run:
 	docker run -p 5000:5000 flask-model-assignment
 
 delete:
-	docker rmi flask-model-assignment
+	docker rmi flask-model-assignment:latest
